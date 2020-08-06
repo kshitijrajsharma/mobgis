@@ -1,6 +1,6 @@
 # mobgis
 
-A new Flutter project.
+A new Flutter project for spatial development
 
 ## Getting Started
 
